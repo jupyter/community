@@ -6,7 +6,16 @@ project:
   # keywords: []
   # authors: []
   github: "https://github.com/jupyter/community"
-  # To autogenerate a Table of Contents, run "myst init --write-toc"
+  plugins:
+    - type: "executable"
+      path: "plugin/listing.py"
+  toc:
+    - file: "index.md"
+    - file: "charter.md"
+    - file: "meeting-notes.md"
+      children:
+        - pattern: "meeting-notes/**/*.md"
+          hidden: true
 site:
   template: "book-theme"
   # options:
