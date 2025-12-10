@@ -1,0 +1,14 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  title: "Jupyter Community Committee"
+  # description:
+  # keywords: []
+  # authors: []
+  github: "https://github.com/jupyter/community"
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: "book-theme"
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
