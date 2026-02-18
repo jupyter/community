@@ -72,4 +72,4 @@ Please add new agenda items under the `New agenda items` heading!
             - Ensure blog posts are published from each event detailing strategic work and community building impact
             - Stay within the budget
 - Initiatives
-    -
+    - Didn't have time, will get to it next time :)
