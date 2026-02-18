@@ -46,7 +46,7 @@ Please add new agenda items under the `New agenda items` heading!
 
 ### Agenda & notes
 
-- Last actions: 
+- Last actions:
     - Lahari: Invite member of 8knot team to our next meeting. We’ll spend the first 30 minutes understanding how we can use 8knot.
     - **What do we want to measure?** Specific metrics we care about. And how to measure across entire community / subprojects.
         - https://chaoss.community/kbtopic/all-metrics-models/
@@ -72,4 +72,4 @@ Please add new agenda items under the `New agenda items` heading!
             - Ensure blog posts are published from each event detailing strategic work and community building impact
             - Stay within the budget
 - Initiatives
-    - 
+    -
