@@ -15,6 +15,7 @@ project:
   toc:
     - file: "index.md"
     - file: "charter.md"
+    - file: "programming.md"
     - file: "meeting-notes.md"
       children:
         - pattern: "meeting-notes/**/*.md"
