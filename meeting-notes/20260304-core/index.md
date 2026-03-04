@@ -62,12 +62,12 @@ Please add new agenda items under the `New agenda items` heading!
         -
     - Foundation board
         - Posted some off-the-record comments in Zulip
-        - Next 3-6 months, plug in to the JCB. Walk softly. Become community liason.
+        - Next 3-6 months, plug in to the JCB. Walk softly. Become community liaison.
             - How do we feel about inviting Celeste in to our various spaces, e.g. Zulip, this meeting?
             - Full member of our committee?
-            - Celeste: Let's think more along the lines of the "community liason" board role and how to create a healthy community<>board relationship regardless of who is in the role.
+            - Celeste: Let's think more along the lines of the "community liaison" board role and how to create a healthy community<>board relationship regardless of who is in the role.
             - Is participation in the community committee a mechanism for keeping the community<>board relationship healthy?
-            - Celeste: Someone could be both board liason _and_ a full member of the committee. But perhaps it shouldn't be required. Opportunity to set a pattern and clearly define what a liaison is and isn't. Formalizing and scoping the role is important.
+            - Celeste: Someone could be both board liaison _and_ a full member of the committee. But perhaps it shouldn't be required. Opportunity to set a pattern and clearly define what a liaison is and isn't. Formalizing and scoping the role is important.
 - Punted to next meeting:
     - Lahari: Metrics
     - April: JupyterHub roadmapping workshop
