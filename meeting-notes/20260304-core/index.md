@@ -34,7 +34,7 @@ Please add new agenda items under the `New agenda items` heading!
     - [ ] April: Schedule discussion with Deb about scoping funding for next iteration. How much should we expect each workshop to cost? Can we have more workshops? Meet at JCB meeting in 4 weeks.
     - [ ] Rosio: Email EC to ask for them to champion next iteration of workshops with the board -- know in advance (from previous action item) roughly how much money we're asking for.
     - [ ] Celeste: Raise this at tomorrow's board meeting. Ping us on Zulip.
-- [ ] April: Ask LF (Deb) to set up a meeting to iterate on how we do workshops with LF. All of us meet with Deb and workshop organizers. Target early April. 
+- [ ] April: Ask LF (Deb) to set up a meeting to iterate on how we do workshops with LF. All of us meet with Deb and workshop organizers. Target early April.
 - [ ] Matt: Add link to 2024(5?) community survey results to our team compass.
     - https://blog.jupyter.org/community-building-report-project-jupyter-5a0fd7c8b08d
 - [ ] April: Reach out to Naomi -- we want to be able to change our own meeting on the calendar. Ask for permissions. Is there a way we can give small groups of people, like our committee, access to create and manage their own meetings without giving full admin? Do you have training around how our community can use this and enable broader use by the community.
@@ -55,11 +55,11 @@ Please add new agenda items under the `New agenda items` heading!
                 - Celeste: Big topic!
                 - Let's keep thinking about it together.
         - [Community Survey](https://blog.jupyter.org/community-building-report-project-jupyter-5a0fd7c8b08d) (and acting on feedback from the survey)
-            
+
         - Reporting out to EC
             - We've not been good about this!
             - We moved to [publicizing our meeting minutes](https://jupyter.org/community-committee/meeting-notes/), though. So that's something :)
-        - 
+        -
     - Foundation board
         - Posted some off-the-record comments in Zulip
         - Next 3-6 months, plug in to the JCB. Walk softly. Become community liason.
