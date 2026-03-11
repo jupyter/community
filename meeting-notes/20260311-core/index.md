@@ -47,7 +47,7 @@ Please add new agenda items under the `New agenda items` heading!
     * JDR's ask: What do we need / need promoted?
         * Workshops!
         * Allowing community members to upload to Jupyter YouTube channel
-            * Jake: Yes! Goal to create frictionless path for community members to share cool stuff. Make it easy to submit. If someone has something to share and doesn't know how, tell them to reach out to Jake / JMS ([email](jupyter-media-strategy@googlegroups.com)). Better solution coming soon.
+            * Jake: Yes! Goal to create frictionless path for community members to share cool stuff. Make it easy to submit. If someone has something to share and doesn't know how, tell them to reach out to Jake / JMS (email `jupyter-media-strategy@googlegroups.com`). Better solution coming soon.
             * Expectation is not that the thing to share is polished -- the JMS will help figure out where to share and what revisions might be needed, etc. They're there to help, not just to put a fished product on a platform.
             * Jason: Need better guidelines on expectations about what can be shared and how JMS helps.
             * Contributor / community member spotlight! **Jake's goal is to have the first person selected this week!**
