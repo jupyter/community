@@ -66,10 +66,10 @@ Please add new agenda items under the `New agenda items` heading!
     * How do we start DOING?
         * Choose an initiative and leader(s)
         * April: Having two leaders, create accountability!
-        * Ongoing iniatives:
+        * Ongoing initiatives:
             * Workshops (active)
             * Community call (maintenance?)
-                * Frequency -- monthly/2-monthly intead of quarterly
+                * Frequency -- monthly/2-monthly instead of quarterly
                 * Facilitators -- find a 2nd leader
                     * Kirstie, Lahari, April, Matt
                     * "Let's pick a facilitator for next time (we'll support you)" at the end of each community meeting
