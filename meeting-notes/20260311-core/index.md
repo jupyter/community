@@ -52,9 +52,9 @@ Please add new agenda items under the `New agenda items` heading!
             * Jason: Need better guidelines on expectations about what can be shared and how JMS helps.
             * Contributor / community member spotlight! **Jake's goal is to have the first person selected this week!**
 * Community stats (metrics)
-    * 
+    *
 * Liaison with the foundation (Celeste)
-    * 
+    *
 * Community workshops
     * 2026!
     * Meet with workshop organizers + LF for a retrospective to get feedback, plan next iteration!
