@@ -40,7 +40,7 @@ Please add new agenda items under the `New agenda items` heading!
 
 
 - New Zulip channel for "community" (move more of our discussions into the public)
-    - 
+    -
 - Did we follow-up with Celeste to invite her as a committee member?
     - Establish a liaison role
         - Is the "best" version of this having the liaison also a full member on the committee?
@@ -113,7 +113,7 @@ Please add new agenda items under the `New agenda items` heading!
             - how do we link up with documentation working group?
             - do we work on global documentation? (jupyter.org -- has metrics tooling already, can gauge effectiveness)
         - Contributing to Project Jupyter & Jupyter subprojects applying best practices
-        - Identify quick wins on the PJ website -- needed work for a long time. 
+        - Identify quick wins on the PJ website -- needed work for a long time.
             - Foundation board has been interested in funding the work.
             - We can scope the work and help do outreach to find folks to do the work.
             - What other questions need to be answered (e.g. ownership of the website)
