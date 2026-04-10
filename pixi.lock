@@ -3,6 +3,8 @@ environments:
   default:
     channels:
     - url: https://conda.anaconda.org/conda-forge/
+    options:
+      pypi-prerelease-mode: if-necessary-or-explicit
     packages:
       linux-64:
       - conda: https://conda.anaconda.org/conda-forge/linux-64/_libgcc_mutex-0.1-conda_forge.tar.bz2
@@ -43,7 +45,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/linux-64/libxslt-1.1.43-h711ed8c_1.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/libzlib-1.3.1-hb9d3cd8_2.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/lxml-6.0.2-py314hae3bed6_2.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/mystmd-1.7.0-pyhcf101f3_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/mystmd-1.8.3-pyhcf101f3_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/ncurses-6.5-h2d0b736_3.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/nodejs-25.2.1-h547ee38_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/numpy-2.3.5-py314h2b28147_0.conda
@@ -493,17 +495,17 @@ packages:
   license: BSD-3-Clause and MIT-CMU
   size: 1616783
   timestamp: 1762506575980
-- conda: https://conda.anaconda.org/conda-forge/noarch/mystmd-1.7.0-pyhcf101f3_0.conda
-  sha256: 11c8fdb494493e636024696395cbf5271f4890a1d69009daa4df17128a8bf792
-  md5: 8c0f1ed376697206261d1b99bd4858b6
+- conda: https://conda.anaconda.org/conda-forge/noarch/mystmd-1.8.3-pyhcf101f3_0.conda
+  sha256: eef3ec4ad6f83e8e20a84d18bd6a70ca21a38ee4144a5a6c010a20574d40f292
+  md5: a44086c58b2f81dc318ded3c107d6afd
   depends:
   - python >=3.10
   - nodejs >=18
   - python
   license: MIT
   license_family: MIT
-  size: 2163398
-  timestamp: 1764855843630
+  size: 2183857
+  timestamp: 1775082702883
 - conda: https://conda.anaconda.org/conda-forge/linux-64/ncurses-6.5-h2d0b736_3.conda
   sha256: 3fde293232fa3fca98635e1167de6b7c7fda83caf24b9d6c91ec9eefb4f4d586
   md5: 47e340acb35de30501a76c7c799c41d7
