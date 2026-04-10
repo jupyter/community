@@ -15,11 +15,15 @@ project:
   toc:
     - file: "index.md"
     - file: "charter.md"
-    - file: "programming.md"
     - file: "meeting-notes.md"
       children:
         - pattern: "meeting-notes/**/*.md"
           hidden: true
+    - title: "Initiatives"
+      children:
+        - pattern: "initiatives/*.md"
+        - title: "Inactive"
+          pattern: "initiatives/inactive/*.md"
 
   error_rules:
     - rule: "link-resolves"
