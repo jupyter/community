@@ -22,7 +22,7 @@ project:
     - title: "Initiatives"
       children:
         - pattern: "initiatives/*.md"
-        - title: "Inactive"
+        - title: "💤 Inactive"
           children:
             - pattern: "initiatives/inactive/*.md"
 
