@@ -23,7 +23,8 @@ project:
       children:
         - pattern: "initiatives/*.md"
         - title: "Inactive"
-          pattern: "initiatives/inactive/*.md"
+          children:
+            - pattern: "initiatives/inactive/*.md"
 
   error_rules:
     - rule: "link-resolves"
