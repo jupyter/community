@@ -29,17 +29,17 @@ Please add new agenda items under the `New agenda items` heading!
 
 ### Action items
 
-- [ ] Oops, none of us actually put a Jupyter Community call on the calendar! 
+- [ ] Oops, none of us actually put a Jupyter Community call on the calendar!
 
 
 ### Agenda & notes
 
 * Caught Lahari up on our first initiative, Welcome Mat
-* What is the welcome mat? 
+* What is the welcome mat?
     * Probably the website
     * April thinks it's specifically the content on https://jupyter.org/community, because that page's job is to be *the place where community members go to connect and learn*
-    * Jason points out that it's not 100% clear what the entire jupyter.org website's job is 
-    * Should we propose fixing some low-hanging fruit around the entire website and/or volunteering to own the entire website? :rolling_on_the_floor_laughing: 
+    * Jason points out that it's not 100% clear what the entire jupyter.org website's job is
+    * Should we propose fixing some low-hanging fruit around the entire website and/or volunteering to own the entire website? :rolling_on_the_floor_laughing:
     * Lahari suggests we design the community page around a few Welcome Mat use cases or personas, then recommend to the EC or foundation
     * One thing we might also want to change is the experience of the jupyter.org front page for *people who want to contribute or to contribute more* (not total newcomers to Jupyter)
 
@@ -49,7 +49,7 @@ Please add new agenda items under the `New agenda items` heading!
     * There's also more content on community here: https://docs.jupyter.org/en/latest/community/content-community.html :cry:  (what is the docs website's job?)
     * This page is for people who are or who want to be contributors in the Jupyter community.
         * Audience has some familiarity with at least some parts of Jupyter
-    * That could include a clear, central landing place for new contributors like a New Contributors Zulip channel 
+    * That could include a clear, central landing place for new contributors like a New Contributors Zulip channel
     * Questions that should be easy to find answers to:
         * What are things I could contribute to?
         * How do I go somewhere and raise my hand and ask if I can help?
@@ -61,6 +61,3 @@ Please add new agenda items under the `New agenda items` heading!
         * What are ways I can contribute other than code?
 * Example: https://antennapod.org/contribute/
     * Lots of easy quick handles on avenues for contributing
-
-
-
