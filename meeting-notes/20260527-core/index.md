@@ -35,7 +35,7 @@ Please add new agenda items under the `New agenda items` heading!
     - What fees were there?
     - What other costs should we consider for administration?
     - How much money is reserved for workshops in the board budget? Can decide number of workshops based on that budget.
-    - 
+    -
 
 
 ### Standing items
