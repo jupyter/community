@@ -49,7 +49,7 @@ Please add new agenda items under the `New agenda items` heading!
     - https://github.com/jupyter/community-committee/issues/31
     - A long time ago, we mistakenly conflated "good at jupyter" and "leader/more responsibilities". That led to the distinguished contributor program to recognize those "good at jupyter" folks without saddling them with extra responsibilities.
     - Distinguished contributors vote for new distinguished contributors
-    - Worked well, except most don't participate in the vote. Usually falls on a handful of individuals to run the election. 
+    - Worked well, except most don't participate in the vote. Usually falls on a handful of individuals to run the election.
     - Changed the election process over time.
     - When this was first created, there was a huge backlog of people who'd made large contributions but had no formal recognition. 5 years in, we've gone through that backlog. There's an expectation that the same volume of people will be voted in. In reality, we haven't been onboarding enough community members to justify that number. If we have less new contributors but add the same number of distinguished contributors per year, we're lowering the bar and devaluing the program.
         - Last year we reduced the volume from 10 -> 5. Some people suggested 2-3 per year.
@@ -75,8 +75,8 @@ Please add new agenda items under the `New agenda items` heading!
     - Context on actionable current conversations about the website?
         - Chris: Nothing new.
         - Jason: Marketing committee discussing moving the blog from Medium!
-            - This morning, had a good debate about the future of the blog. 
-                - All agree, not Medium. 
+            - This morning, had a good debate about the future of the blog.
+                - All agree, not Medium.
                 - All agree, stays at blog.jupyter.org
                 - Wordpress (managed by LF) vs static blog?
                     - If we do LF-managed, create a separate docs site more community-driven management
@@ -88,7 +88,7 @@ Please add new agenda items under the `New agenda items` heading!
             - Whose goals are we trying to accomplish with jupyter.org?
                 - Marketing committee (media strategy WG)?
                 - JCB?
-                - 
+                -
             - There's an open PR to add a new dropdown to the website to expose more subprojects. Just copying the same thing from the footer to the top nav. Promote Jupyter as a collection of subprojects
                 - Chris: Want to merge!
     - **Do we want to own the website**?
@@ -109,5 +109,5 @@ Please add new agenda items under the `New agenda items` heading!
         - Jason: We need to quickly turn this around.
     - CFP comes out sometimes between now and end of month
     - Then we would run the call for workshops.
-    
+
 - /
