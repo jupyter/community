@@ -31,7 +31,7 @@ project:
       keys:
         - "https://docs.google.com/document/d/**"
         - "https://github.com/**"
-        - "https://blog.jupyter.org/**"
+        - "{http,https}://blog.jupyter.org/**"
       severity: "warn"
 
 
