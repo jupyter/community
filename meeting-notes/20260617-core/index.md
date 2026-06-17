@@ -28,7 +28,7 @@ Please add new agenda items under the `New agenda items` heading!
 
 ### Action items
 
-- [ ] Jason: Create HackMD for site map, share in Zulip: https://hackmd.io/Lq1c0oaPTWeMYcjUEHyxAw
+- [X] Jason: Create HackMD for site map, share in Zulip: `https://hackmd.io/Lq1c0oaPTWeMYcjUEHyxAw`
 - [ ] Everyone: Edit HackMD!
 
 
