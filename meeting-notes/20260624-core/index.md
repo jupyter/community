@@ -21,15 +21,15 @@ Please add new agenda items under the `New agenda items` heading!
 
 ## Attendees
 
-* Name
-* Name
-* Name
-* Name
+* Jason
+* Matt
+* April
+* 
 
 
 ### Action items
 
-- [ ] ...
+- [ ] 
 
 
 ### Standing items
@@ -42,4 +42,4 @@ Please add new agenda items under the `New agenda items` heading!
 
 ### Agenda & notes
 
-- ...
+- Reviewing [website overview](https://hackmd.io/Lq1c0oaPTWeMYcjUEHyxAw) hackmd together
