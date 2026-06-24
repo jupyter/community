@@ -24,12 +24,12 @@ Please add new agenda items under the `New agenda items` heading!
 * Jason
 * Matt
 * April
-* 
+*
 
 
 ### Action items
 
-- [ ] 
+- [ ]
 
 
 ### Standing items
