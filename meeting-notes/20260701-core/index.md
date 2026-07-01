@@ -39,7 +39,7 @@ Please add new agenda items under the `New agenda items` heading!
 - Active initiatives
     - Welcome Mat / community page
         - We made small changes to simplify the [current page](https://jupyter.org/community)
-        - 
+        -
     - ...
 - Upcoming initiatives
     - ...
@@ -54,6 +54,6 @@ Please add new agenda items under the `New agenda items` heading!
         - Matt: Link to GitHub issues instead?
         - April: Email
     - Matt: Link to team compass (here's how they coordinate)
-- 
-- 
+-
+-
 - /
