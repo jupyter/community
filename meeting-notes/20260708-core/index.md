@@ -51,7 +51,7 @@ Please add new agenda items under the `New agenda items` heading!
 - Mini-summits: Lahari's AWS team agreed to sponsor mini-summits. Can sponsor travel.
     - Jason: A mini-summit committee is getting spun up. Bring this up there! Foundation needs to accept money for this purpose.
     - Lahari: Will email Naomi directly!
-- Website: 
+- Website:
     - Static vs wordpress?
         - ...
 - Community calls:
