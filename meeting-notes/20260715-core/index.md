@@ -21,15 +21,15 @@ Please add new agenda items under the `New agenda items` heading!
 
 ## Attendees
 
-* Name
-* Name
-* Name
-* Name
+* Jason
+* April
+* Rosio
+* Matt
 
 
 ### Action items
 
-- [ ] ...
+- [ ] All: Finish CFP proposal for next week
 
 
 ### Standing items
@@ -42,4 +42,11 @@ Please add new agenda items under the `New agenda items` heading!
 
 ### Agenda & notes
 
-- ...
+- Community workshops CFP
+    - Timeline
+        - CFP acceptance comes end of September.
+    - https://docs.google.com/document/d/1vYkkNH2doXmQhpv_C7tsv1YHqHBBIs-GG8qPCZYCrbQ/edit?tab=t.0#heading=h.snit3wc91w7b
+- 
+- 
+- 
+- /
