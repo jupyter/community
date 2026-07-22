@@ -56,7 +56,7 @@ Please add new agenda items under the `New agenda items` heading!
     - Want a way for the board to contribute in a way that doesn't override the community.
     - Don't want the board to be driving the community -- community should drive the community!
     - Proposal:
-        - Annoint JCB as liaison to board. Anything this group needs can have a direct line to the board.
+        - Anoint JCB as liaison to board. Anything this group needs can have a direct line to the board.
         - Anyone on the board who wants to participate in community building can join JCB.
         - This model is familiar to LF
         - Jason: How does this affect our ability to tap in to funding? How does that work? Right now we use CFP.
