@@ -67,4 +67,3 @@ Please add new agenda items under the `New agenda items` heading!
             - Matt: Yes!
 - Workshop CFP proposal
     - Didn't get to it!
-
