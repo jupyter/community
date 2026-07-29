@@ -25,14 +25,12 @@ Please add new agenda items under the `New agenda items` heading!
 * Matt
 * Jason
 * Rosio
-* ?
 
 
 ### Action items
 
 - [ ] Jason Grout: Onboarding Serena.
     - [ ] Google Drive access
-    - [ ] ??
 - [ ] Finish CFP final polish items, email EC for endorsement next week
 
 
