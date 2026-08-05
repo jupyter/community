@@ -21,16 +21,18 @@ Please add new agenda items under the `New agenda items` heading!
 
 ## Attendees
 
-* Name
-* Name
-* Name
-* Name
+* Serena
+* Matt
+* Jason
+* Lahari
+* April
 
 
 ### Action items
 
-- [ ] ...
-
+- [ ] Take Doodle poll to determine new meeting time
+- [ ] April: Get EC endorsement (see https://ec.jupyter.org for mail address) for CFP
+- [ ] Submit CFP after EC endorsement
 
 ### Standing items
 
@@ -42,4 +44,7 @@ Please add new agenda items under the `New agenda items` heading!
 
 ### Agenda & notes
 
-- ...
+- CFP for community workshops?
+    - https://docs.google.com/document/d/1vYkkNH2doXmQhpv_C7tsv1YHqHBBIs-GG8qPCZYCrbQ/edit?tab=t.5inaorn0ect5#heading=h.5i77we14fyb
+- Follow-up on action items:
+    - Onboarded Serena, here's the checklist: https://github.com/jupyter/community-committee/issues/42
