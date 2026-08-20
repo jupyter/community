@@ -81,7 +81,7 @@ Please add new agenda items under the `New agenda items` heading!
   > Funding: The Venue is already provided. We would encourage non-European maintainers to seek employer funding, with Jupyter Foundation support available as needed.
   >
   > Are you supportive of this proposal?
-  
+
     - Jason: Is he asking for permission to call this an official Jupyter event?
         - Code of conduct, event insurance, etc. comes in to play if it is.
         - We can say this sounds great, and go ahead and market it, but we don't know what it means (e.g. insurance) to approve a third-party event as an official Jupyter event.
