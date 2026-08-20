@@ -76,7 +76,7 @@ Please add new agenda items under the `New agenda items` heading!
   > Compute! Paris features a "Planet Jupyter" track on November 26, with talks from Jeremy Tuloup (JupyterLab, JupyterLite), Yann Pellegrini (Jupyter security), Tim Paine (nbplay), and Afshin Darian (JupyterLab co-creator). Additional Jupyter-related sessions include a geojupyter case study and Serena’s community management report.
   >
   > Logistics and venue:
-  > The venue for the Compute! Sprints will be the Sorbonne Cluster for Artificial Intelligence (SCAI) in the center of Paris, which offers modern facilities with large open spaces and breakout rooms, ideal for sprints and structured discussions. Besides, the conference venue provides two additional rooms (with a capacity of 70 people earch) for potential Jupyter BoF sessions.
+  > The venue for the Compute! Sprints will be the Sorbonne Cluster for Artificial Intelligence (SCAI) in the center of Paris, which offers modern facilities with large open spaces and breakout rooms, ideal for sprints and structured discussions. Besides, the conference venue provides two additional rooms (with a capacity of 70 people each) for potential Jupyter BoF sessions.
   >
   > Funding: The Venue is already provided. We would encourage non-European maintainers to seek employer funding, with Jupyter Foundation support available as needed.
   >
