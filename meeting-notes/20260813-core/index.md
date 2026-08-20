@@ -24,24 +24,14 @@ Please add new agenda items under the `New agenda items` heading!
 * Serena
 * Matt
 * Jason
-* 
-* 
-* /
 
 
 ### Action items
 
-- [ ] ...
-
 
 ### Standing items
-
-- Active initiatives
-    - ...
-- Upcoming initiatives
-    - ...
 
 
 ### Agenda & notes
 
-- ...
+- Worked on https://docs.google.com/document/d/1vYkkNH2doXmQhpv_C7tsv1YHqHBBIs-GG8qPCZYCrbQ/edit?tab=t.5inaorn0ect5#heading=h.5i77we14fyb
