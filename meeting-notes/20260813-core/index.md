@@ -21,10 +21,12 @@ Please add new agenda items under the `New agenda items` heading!
 
 ## Attendees
 
-* Name
-* Name
-* Name
-* Name
+* Serena
+* Matt
+* Jason
+* 
+* 
+* /
 
 
 ### Action items
